@@ -1,0 +1,17 @@
+This project is for the REST services to access information statically
+We will be using :
+ - Sinatra : http://www.sinatrarb.com
+
+We can access : 
+ - Player infos
+ - Character infos
+ - Server information
+
+We can search for :
+ - Player by 
+   - name
+   - id
+ - Character by
+   - name
+   - id
+
