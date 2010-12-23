@@ -1,0 +1,12 @@
+Content of subdirectories:
+ - common
+   Anything that is common to two or ore type of server
+ - battle
+   Everything related only to the battles
+ - chat
+   Everything related to the chat
+ - controller
+   Everything related to the control on the client (forward to the battle, auth, etc.)
+ - info
+   Server giving access to REST services to access read-only information about players,
+   characters and other infos. Also used to search through players and characters.
